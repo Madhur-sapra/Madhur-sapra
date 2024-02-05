@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Madhur-sapra
 - 👀 I’m interested in ... Cyber Security
 - 🌱 I’m currently learning ... Python Basics
-- 💞️ I’m looking to collaborate on ... --
 - 📫 How to reach me ... madhurvaishnavi@gmail.com
 
 <!---
